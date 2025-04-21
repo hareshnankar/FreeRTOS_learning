@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-C11Wrapper",
+      "appliesTo": "HARRY_DEVICE/C11Wrapper.c",
+      "type": "launch"
+    }
+  ]
+}

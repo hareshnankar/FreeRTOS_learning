@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\Datalogger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|solutionrelative:HARRY_DEVICE\\Datalogger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\SoftTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|solutionrelative:HARRY_DEVICE\\SoftTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|solutionrelative:HARRY_DEVICE\\application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\Datalogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|solutionrelative:HARRY_DEVICE\\Datalogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\HN990.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|solutionrelative:HARRY_DEVICE\\HN990.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\HN990.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|solutionrelative:HARRY_DEVICE\\HN990.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|solutionrelative:HARRY_DEVICE\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\FreeRTOSConfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|solutionrelative:FreeRTOSConfig.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|solutionrelative:HARRY_DEVICE\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\FreeRTOS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|solutionrelative:FreeRTOS.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\SoftTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|solutionrelative:HARRY_DEVICE\\SoftTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\timers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF81C596-E92B-403B-AA2F-191033C35B3C}|Test_project.vcxproj|solutionrelative:timers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task.h",
+              "DocumentMoniker": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\Task.h",
+              "RelativeDocumentMoniker": "HARRY_DEVICE\\Task.h",
+              "ToolTip": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\Task.h",
+              "RelativeToolTip": "HARRY_DEVICE\\Task.h",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T04:29:44.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FreeRTOS.h",
+              "DocumentMoniker": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\FreeRTOS.h",
+              "RelativeDocumentMoniker": "FreeRTOS.h",
+              "ToolTip": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\FreeRTOS.h",
+              "RelativeToolTip": "FreeRTOS.h",
+              "ViewState": "AgIAAMgCAAAAAAAAAAAAwNcCAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-21T04:19:35.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FreeRTOSConfig.h",
+              "DocumentMoniker": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\FreeRTOSConfig.h",
+              "RelativeDocumentMoniker": "FreeRTOSConfig.h",
+              "ToolTip": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\FreeRTOSConfig.h",
+              "RelativeToolTip": "FreeRTOSConfig.h",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwFcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T16:36:10.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cpp",
+              "DocumentMoniker": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\Task.cpp",
+              "RelativeDocumentMoniker": "HARRY_DEVICE\\Task.cpp",
+              "ToolTip": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\Task.cpp",
+              "RelativeToolTip": "HARRY_DEVICE\\Task.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T16:15:17.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HN990.h",
+              "DocumentMoniker": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\HN990.h",
+              "RelativeDocumentMoniker": "HARRY_DEVICE\\HN990.h",
+              "ToolTip": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\HN990.h",
+              "RelativeToolTip": "HARRY_DEVICE\\HN990.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T15:15:53.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HN990.cpp",
+              "DocumentMoniker": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\HN990.cpp",
+              "RelativeDocumentMoniker": "HARRY_DEVICE\\HN990.cpp",
+              "ToolTip": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\HN990.cpp",
+              "RelativeToolTip": "HARRY_DEVICE\\HN990.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T15:14:00.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SoftTimer.h",
+              "DocumentMoniker": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\SoftTimer.h",
+              "RelativeDocumentMoniker": "HARRY_DEVICE\\SoftTimer.h",
+              "ToolTip": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\SoftTimer.h",
+              "RelativeToolTip": "HARRY_DEVICE\\SoftTimer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T15:01:52.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoftTimer.cpp",
+              "DocumentMoniker": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\SoftTimer.cpp",
+              "RelativeDocumentMoniker": "HARRY_DEVICE\\SoftTimer.cpp",
+              "ToolTip": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\SoftTimer.cpp",
+              "RelativeToolTip": "HARRY_DEVICE\\SoftTimer.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T15:01:00.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "timers.h",
+              "DocumentMoniker": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\timers.h",
+              "RelativeDocumentMoniker": "timers.h",
+              "ToolTip": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\timers.h",
+              "RelativeToolTip": "timers.h",
+              "ViewState": "AgIAAJoBAAAAAAAAAAAlwKoBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T13:19:30.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "application.cpp",
+              "DocumentMoniker": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\application.cpp",
+              "RelativeDocumentMoniker": "HARRY_DEVICE\\application.cpp",
+              "ToolTip": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\application.cpp",
+              "RelativeToolTip": "HARRY_DEVICE\\application.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T13:12:41.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Datalogger.h",
+              "DocumentMoniker": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\Datalogger.h",
+              "RelativeDocumentMoniker": "HARRY_DEVICE\\Datalogger.h",
+              "ToolTip": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\Datalogger.h",
+              "RelativeToolTip": "HARRY_DEVICE\\Datalogger.h",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwGcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-20T12:40:23.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Datalogger.cpp",
+              "DocumentMoniker": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\Datalogger.cpp",
+              "RelativeDocumentMoniker": "HARRY_DEVICE\\Datalogger.cpp",
+              "ToolTip": "C:\\Learning C\u002B\u002B\\remote_practice\\FreeRTOS\\FreeRTOS_learning\\HARRY_DEVICE\\Datalogger.cpp",
+              "RelativeToolTip": "HARRY_DEVICE\\Datalogger.cpp",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAQwPkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T12:40:12.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

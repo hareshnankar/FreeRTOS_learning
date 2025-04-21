@@ -1,0 +1,18 @@
+﻿  application.cpp
+  Datalogger.cpp
+  HN990.cpp
+C:\Learning C++\remote_practice\FreeRTOS\FreeRTOS_learning\HARRY_DEVICE\Datalogger.cpp(67,87): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  SoftTimer.cpp
+  Task.cpp
+  Generating Code...
+  event_groups.c
+  C11Wrapper.c
+C:\Learning C++\remote_practice\FreeRTOS\FreeRTOS_learning\HARRY_DEVICE\C11Wrapper.c(104,5): warning C4047: 'return': 'errno_t' differs in levels of indirection from 'void *'
+  heap_4.c
+  list.c
+  port.c
+  queue.c
+  supporting_functions.c
+  tasks.c
+  Generating Code...
+  Test_project.vcxproj -> C:\Learning C++\remote_practice\FreeRTOS\FreeRTOS_learning\x64\Debug\Test_project.exe
