@@ -63,6 +63,8 @@
 
 #define EV_FLAG_LOG_DATA 0x00000002u
 
+#define EV_START_TIMER 0x00000003u
+
 //extern EventGroupHandle_t myEventFlagsDataLogger;
 
 //typedef enum

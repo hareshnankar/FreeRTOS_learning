@@ -3,7 +3,6 @@
 #include "SoftTimer.h"
 #include "stdio.h"
 
-extern EventGroupHandle_t myEventFlagsDataLogger;
 
 HN990* P_HN990;
 
@@ -38,6 +37,7 @@ void HN990 :: createApplicationObjects(void)
 	
 	P_SoftTimer = new SoftTimer(); 
 	P_Datalogger = new Datalogger();
+	P_HmiAsKeyboard = new HmiAsKeyboard();
 	//P_Datalogger->startTask();
 
 }
@@ -48,6 +48,11 @@ void HN990 :: createApplicationObjects(void)
 void HN990::InitializeEventGroup(void) {
 	myEventFlagsDataLogger = xEventGroupCreate();
 	if (myEventFlagsDataLogger == NULL) {
+		printf("Failed to create event group!\n");
+		for (;;); // Halt
+	}
+	myEventFlageTimer = xEventGroupCreate();
+	if (myEventFlageTimer == NULL) {
 		printf("Failed to create event group!\n");
 		for (;;); // Halt
 	}

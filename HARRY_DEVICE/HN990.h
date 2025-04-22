@@ -2,8 +2,10 @@
 #define HN990_H
 #include "Datalogger.h"
 #include "SoftTimer.h"
+#include "HMIasKeyboard.h"
 #include "../event_groups.h"
 extern EventGroupHandle_t myEventFlagsDataLogger;
+extern EventGroupHandle_t myEventFlageTimer;
 
 class HN990
 {
@@ -19,6 +21,7 @@ public:
 
 		Datalogger* P_Datalogger;
 		SoftTimer* P_SoftTimer;
+		HmiAsKeyboard* P_HmiAsKeyboard;
 };
 
 extern HN990* P_HN990;

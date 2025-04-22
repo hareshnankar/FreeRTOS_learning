@@ -68,7 +68,6 @@ void Datalogger::run_function(void)
 		{
 			char text[MAX_LINE_SIZE];
 			memset(text, 0x00, sizeof(text));
-			//printf("logging the data...\n");
 			prepareDummyDataLine(text);
 			snprintf(line, (rsize_t)MAX_LINE_SIZE, "%s", text);
 		}

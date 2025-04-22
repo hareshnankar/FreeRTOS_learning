@@ -8,6 +8,7 @@
 #include "HN990.h"
 
 #define TIM16_INTERVAL_MS 1000
+EventGroupHandle_t myEventFlageTimer;
 
 //EventGroupHandle_t myEventFlagsDataLogger;
 
@@ -34,8 +35,19 @@ void SoftTimer::run_function(void)
 
 	while (1)
 	{
-		// Post the EV_FLAG_LOG_DATA flag to signal a task periodically
-		xEventGroupSetBits(myEventFlagsDataLogger, EV_FLAG_LOG_DATA);
+		EventBits_t receivedFlags = xEventGroupWaitBits(
+			myEventFlageTimer,
+			EV_START_TIMER,//| EV_FLAG_LOG_DATA | EV_FLAG_LOG_MANUAL_DATA | EV_FLAG_LOG_STOP,
+			pdFALSE,       // Clear the flags after they are consumed
+			pdFALSE,      // Wait for any of the specified bits
+			portMAX_DELAY // Wait indefinitely
+		);
+
+		if ((receivedFlags & EV_START_TIMER) == EV_START_TIMER)
+		{
+			// Post the EV_FLAG_LOG_DATA flag to signal a task periodically
+			xEventGroupSetBits(myEventFlagsDataLogger, EV_FLAG_LOG_DATA);
+		}
 
 		// Delay for TIM16_INTERVAL_MS before posting the flag again
 		vTaskDelay(delayTicks);
